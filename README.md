@@ -294,16 +294,6 @@ Built backend and systems-oriented projects to strengthen API design, database m
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafienajwan&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -314,14 +304,14 @@ Built backend and systems-oriented projects to strengthen API design, database m
 
 ---
 
-## Contribution Snake
+## Contribution Pac-Man
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>

@@ -304,7 +304,6 @@ Built backend and systems-oriented projects to strengthen API design, database m
 
 ---
 
-## Contribution Pac-Man
 
 <div align="center">
 

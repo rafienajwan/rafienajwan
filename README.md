@@ -283,12 +283,12 @@ Built backend and systems-oriented projects to strengthen API design, database m
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafienajwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED&rank_icon=github&count_private=false" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafienajwan&theme=tokyonight" />
 <img width="49%" src="https://streak-stats.demolab.com?user=rafienajwan&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA" />
 
 <br/><br/>
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafienajwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafienajwan&theme=tokyonight" />
 
 </div>
 

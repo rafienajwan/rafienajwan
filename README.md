@@ -1,36 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:7C3AED,100:A855F7&height=260&section=header&text=RAFIE%20NAJWAN%20ANJASMARA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Back%20End%20Enthusiast%20%7C%20Cloud%20Computing%20Graduate%20%7C%20AI-Integrated%20Product%20Builder&descSize=17&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:7C3AED,100:A855F7&height=260&section=header&text=RAFIE%20NAJWAN%20ANJASMARA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Back%20End%20Enthusiast%20%7C%20Cloud%20Computing%20Graduate%20%7C%20AI-Integrated%20Product%20Builder&descSize=17&descAlignY=55" alt="Rafie Najwan Anjasmara - Back End Enthusiast, Cloud Computing Graduate, AI-Integrated Product Builder" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate+from+Indonesia;Back-End+Enthusiast+with+Cloud-Native+Product+Mindset;Building+RESTful+APIs+%7C+GCP+Architecture+%7C+AI-Integrated+Products;Focused+on+Clean+Code%2C+Scalable+Systems%2C+and+Reliable+Engineering" alt="Typing SVG" />
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=1000&lines=Computer+Science+Graduate+from+Indonesia;Building+RESTful+APIs+and+Cloud-Based+Applications;Focused+on+Clean+Code%2C+Scalable+Systems%2C+and+Reliable+Engineering" alt="Computer Science graduate focused on backend development and reliable systems" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Back%20End-Enthusiast-A78BFA?style=flat-square&logo=backendless&logoColor=white" />
-<img src="https://img.shields.io/badge/Bangkit%20Academy-Cloud%20Computing%20Graduate-6366F1?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Base-Indonesia-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/rafienajwan?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
-</a>
-<a href="https://linkedin.com/in/rafieanjasmara">
-  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rafie.anjasmara@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/rafienajwan">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rafienajwan&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/rafienajwan?label=Followers&style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/github/stars/rafienajwan?affiliations=OWNER&label=Stars&style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/Computer%20Science-Graduate-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="Computer Science Graduate" />
+<img src="https://img.shields.io/badge/Back%20End-Enthusiast-A78BFA?style=flat-square&logo=backendless&logoColor=white" alt="Back End Enthusiast" />
+<img src="https://img.shields.io/badge/Bangkit%20Academy-Cloud%20Computing%20Graduate-6366F1?style=flat-square&logo=googlecloud&logoColor=white" alt="Bangkit Academy Cloud Computing Graduate" />
+<img src="https://img.shields.io/badge/Base-Indonesia-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Indonesia" />
 
 </div>
 
@@ -38,75 +15,27 @@
 
 ## About Me
 
-I am **Rafie Najwan Anjasmara** — you can call me **Jasss** — a Computer Science undergraduate from Indonesia with a strong focus on **backend engineering, cloud computing, database systems, and AI-integrated product development**.
+I am **Rafie Najwan Anjasmara**, also known as **Jasss**, a **Computer Science graduate** from Indonesia. My main interests are **backend engineering, cloud computing, database systems, and AI-integrated applications**.
 
-My engineering direction is centered on building reliable software systems with clean architecture, practical scalability, and measurable product value. I enjoy designing **RESTful APIs**, structuring backend services, working with relational and non-relational databases, deploying cloud-based applications, and connecting machine learning capabilities into application workflows.
+I enjoy designing **RESTful APIs**, building backend services, and modeling data for application workflows. My projects include e-commerce APIs, a medical marketplace, a health and nutrition capstone, and a Docker orchestration thesis prototype. Through these projects, I have worked with application authentication, relational databases, cloud deployment, and machine learning integration.
 
-I am especially interested in the intersection of **software engineering, AI/ML, and product-minded development**, where backend systems are not only functional but also maintainable, secure, and useful for real users.
+I am interested in how **software engineering and AI/ML** can support useful products. I care about clear application structure, maintainable code, and understanding how systems behave when deployed and used.
 
-<br/>
-
-**Open To**
-
-```yaml
-roles:
-  - Backend Developer Internship
-  - Cloud Engineer Internship
-  - Software Engineer Internship
-  - AI/ML Product Collaboration
-  - Open Source Backend Projects
-
-interests:
-  - RESTful API Development
-  - Cloud-Native Backend Systems
-  - AI-Integrated Applications
-  - Database Design
-  - Product-Oriented Engineering
-```
-
----
+**Open to opportunities:** I welcome full-time roles, contract or freelance projects, internships, and collaborations across backend development, software engineering, cloud infrastructure, and AI-integrated products. I am also open to related roles where I can contribute and continue learning, as well as open-source projects.
 
 ## Tech Stack
 
-<div align="center">
+**Languages**
 
-### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,go" alt="TypeScript, JavaScript, PHP, Python, Go" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,go,python,php,java&theme=dark" />
+**Backend & Frontend**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi,react,nextjs,vue" alt="Node.js, Express, Laravel, FastAPI, React, Next.js, Vue" />
 
-### Frontend
+**Databases & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,figma&theme=dark" />
-
-<br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi,mysql,postgres,mongodb,redis&theme=dark" />
-
-<br/>
-
-### Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=gcp,docker,nginx,git,github,githubactions,postman,vscode&theme=dark" />
-
-</div>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---:|---|
-| ML-Integrated Backend Systems | Intermediate | Integrated machine learning outputs into backend service flows for product-oriented applications. |
-| Model Serving & API Integration | Intermediate | Built backend interfaces that connect prediction logic with application-level workflows. |
-| Data Analysis & Experimentation | Intermediate | Applied structured analysis, evaluation thinking, and data-driven reasoning in academic and product projects. |
-| Cloud AI Product Deployment | Intermediate | Worked with cloud-based backend architecture and deployment flows during Bangkit Academy cloud computing training. |
-| Health & Nutrition Product AI | Foundational–Intermediate | Contributed to BiteWise, a health and nutrition capstone product with prediction-supported user workflows. |
-
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,gcp" alt="MySQL, PostgreSQL, Redis, Docker, Google Cloud" />
 
 ## Featured Projects
 
@@ -192,187 +121,54 @@ This project represents deeper systems engineering work, combining distributed s
 
 ---
 
-## Experience
-
-### Back-End Developer Intern — FlyHigh Sinergi IDN  
-**Past Role**
-
-Contributed to backend development work in a real company project environment, focusing on server-side feature implementation and product-oriented engineering practices.
-
-**Scope of Work**
-
-- Developed backend functionality using **Laravel** and PHP-based application workflows.
-- Translated product requirements into maintainable server-side features.
-- Collaborated with team members on external project delivery.
-- Strengthened practical backend development, debugging, and implementation discipline.
-
-`Laravel` `PHP` `Backend Development` `Product Engineering` `Team Collaboration`
-
-<br/>
-
-### Cloud Computing Graduate — Bangkit Academy 2024 Batch 2  
-**Cloud Computing Learning Path**
-
-Completed Bangkit Academy's Cloud Computing path and contributed to a product-based capstone project involving backend services, cloud architecture, and machine learning integration.
-
-**Scope of Work**
-
-- Built RESTful API flows for a health and nutrition product case study.
-- Worked with cloud deployment concepts using **Google Cloud Platform**.
-- Collaborated across Cloud Computing, Machine Learning, and Mobile Development roles.
-- Integrated prediction-supported features into application-level workflows.
-
-`Google Cloud` `REST API` `Cloud Architecture` `Backend Engineering` `Machine Learning Integration`
-
-<br/>
-
-### Independent Backend & Systems Projects  
-**Academic and Portfolio Work**
-
-Built backend and systems-oriented projects to strengthen API design, database modeling, cloud deployment, and reliability-focused engineering.
-
-**Scope of Work**
-
-- Designed backend APIs for e-commerce, healthcare, and discussion-style applications.
-- Built Docker-based orchestration concepts for academic experimentation.
-- Practiced clean architecture, service separation, and structured documentation.
-- Explored reliability, observability, and reproducibility in software systems.
-
-`REST API` `Docker` `FastAPI` `Database Design` `System Reliability`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Bangkit Academy Cloud Computing Graduate | Completed the Bangkit Academy 2024 Batch 2 Cloud Computing learning path. |
-| Product-Based Capstone | Contributed to BiteWise, a health and nutrition product involving backend, cloud, and ML collaboration. |
-| Public Backend Portfolio | Built and maintained backend-focused repositories covering Laravel, Node.js, FastAPI, Docker, and database systems. |
-| Docker Orchestration Thesis Prototype | Developed a lightweight orchestration prototype to explore scheduling, health checks, and self-healing workflows. |
-| Continuous Technical Learning | Completed multiple structured learning paths across backend development, data, cloud, database, and networking foundations. |
-
-</div>
-
----
-
 ## Coding Profiles
 
-<div align="center">
-
 <a href="https://leetcode.com/rafienajwan/">
-  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/rafienajwan/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/rafienajwan">
-  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
 </a>
 <a href="https://www.codechef.com/users/rafienajwan">
-  <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638" />
+  <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
-</div>
-
----
-
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafienajwan&theme=tokyonight" />
-<img width="49%" src="https://streak-stats.demolab.com?user=rafienajwan&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafienajwan&theme=tokyonight" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafienajwan&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C084FC&area=true&hide_border=true&custom_title=Jasss%20Contribution%20Graph" />
-
-</div>
-
----
-
-
-<div align="center">
+<img width="49%" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafienajwan&theme=tokyonight" />
+<img width="49%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=rafienajwan&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/rafienajwan/rafienajwan/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
 
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Backend Architecture
-  - Cloud-Native Deployment Patterns
-  - Data Science and Machine Learning Workflows
-  - Distributed Systems Fundamentals
-
-Building:
-  - RESTful APIs with clean and maintainable architecture
-  - Cloud-deployed backend services
-  - AI-integrated product features
-  - Developer-friendly API documentation
-
-Exploring:
-  - Docker orchestration concepts
-  - Scalable database design
-  - Backend observability
-  - Product engineering and system reliability
-
-Open To:
-  - Software Engineering Internship
-  - Backend Developer Internship
-  - Cloud Engineer Internship
-  - AI/ML Product Collaboration
-  - Open Source Backend Contributions
-```
-
----
-
 ## Connect
 
-<div align="center">
-
-<a href="mailto:rafie.anjasmara@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://linkedin.com/in/rafieanjasmara">
-  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ5Yy40NzYtLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D" alt="LinkedIn" />
 </a>
-<a href="https://github.com/rafienajwan">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:rafie.anjasmara@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/rafienajwan?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
 </a>
-
-</div>
 
 ---
 
 <div align="center">
 
-**“Engineering is not only about writing code, but designing reliable systems that create measurable impact.”**
+**"Engineering is not only about writing code, but designing reliable systems that create measurable impact."**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:7C3AED,100:A855F7&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:7C3AED,100:A855F7&height=140&section=footer" alt="Purple wave footer" />
 
 </div>
